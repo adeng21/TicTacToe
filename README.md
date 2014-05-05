@@ -1,6 +1,6 @@
 # TicTacToe
 
-TODO: Write a gem description
+Play Tic Tac Toe from the Command Line!
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+simple game of tic tac toe written in Ruby
 
 ## Contributing
 
